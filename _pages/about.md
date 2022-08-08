@@ -26,11 +26,7 @@ I am a master student  in the Criminology and CriminalJustice at [Faculty of soc
 - College English Test Band 4 
 - College English Test Band 6 
 - Japanese Language Proficiency Test 
-<!-- **Conference**
-1. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
-    Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
-    In: The 44th International Conference on Software Engineering, May 21-29, 2022, pages to appear, Pittsburgh, PA, USA 
- -->
+
 
 <!-- <span style="color:#6b5d40">Teaching Experience</span>
 ----------
@@ -50,9 +46,11 @@ I am a master student  in the Criminology and CriminalJustice at [Faculty of soc
 <span style="color:#6b5d40">Experience</span>
 ---------------
 - 2020.09 Class Monitor, School of Public Administration 
+
 Arranged the specific work of class committee; Conveyed the information of the college and school to students; 
 Completed the tasks assigned by the counselor. 
 - 2020.10 Student Representative, Chongqing University 
+
 Student Congress Attended the Student Congress meetings; 
 Carried out research regularly on students’ opinions and submitted proposals; Played the role of a bridge of students and school.
 
