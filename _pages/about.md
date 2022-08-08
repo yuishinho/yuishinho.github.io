@@ -20,12 +20,12 @@ I am a master student  in the Criminology and CriminalJustice at [Faculty of soc
 <span style="color:#6b5d40">Linguistic Skills</span>
 --------
 
-- National Proficiency Test of Mandarin | 
-- Upper Second (87.8 Points) Business English Certificate Vantage | Passed (164 Points) 
-- Test for English Majors Band 4 | Good (73 Points) 
-- College English Test Band 4 | Passed (611 Points) 
-- College English Test Band 6 | Passed (503 Points) 
-- Japanese Language Proficiency Test | Passed (122 Points)
+- National Proficiency Test of Mandarin 
+- Upper Second (87.8 Points) Business English Certificate Vantage
+- Test for English Majors Band 4 
+- College English Test Band 4 
+- College English Test Band 6 
+- Japanese Language Proficiency Test 
 <!-- **Conference**
 1. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
     Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
@@ -44,9 +44,17 @@ I am a master student  in the Criminology and CriminalJustice at [Faculty of soc
 <span style="color:#6b5d40">Working skills</span>
 ---------------
 
-- China Accreditation Test for Translators and Interpreters (International) | Passed 
-- National Computer Rank Examination (MS Office Band II) | Passed
+- China Accreditation Test for Translators and Interpreters (International) 
+- National Computer Rank Examination (MS Office Band II) 
 
+<span style="color:#6b5d40">Experience</span>
+---------------
+- 2020.09 Class Monitor, School of Public Administration 
+Arranged the specific work of class committee; Conveyed the information of the college and school to students; 
+Completed the tasks assigned by the counselor. 
+- 2020.10 Student Representative, Chongqing University 
+Student Congress Attended the Student Congress meetings; 
+Carried out research regularly on students’ opinions and submitted proposals; Played the role of a bridge of students and school.
 
 <span style="color:#6b5d40">Hobbies</span>
 ----------------
