@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/) of [CQU](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at [Faculty of Social Sciences](https://fss.um.edu.mo) of [UM](https://www.um.edu.mo).
+I am Yuxin He, a Ph.D. Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/) of [CQU](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at [Faculty of Social Sciences](https://fss.um.edu.mo) of [UM](https://www.um.edu.mo).
 
 Now, I am conducting research under the guidance of Prof.Zhang Peng(张鹏). My research focuses on: economic policy; risk communication. 
 
@@ -26,4 +26,4 @@ Now, I am conducting research under the guidance of Prof.Zhang Peng(张鹏). My 
 ----------
 
 - 07/2024, *IAMCR Christchurch 2024*, Rethinking the risk communication on social media: Stigmatized health risk messages from out-group cause psychological resistance to protective behaviors among MSM (Yuxin He - University of Macau, Yuanming Guo - Macau University of Sciences and Technology)
-- 06/2024, Master Thesis (Project Report) of University of Macau, Relative Deprivation and Cyberbullying among Chinese College Students: The Role of Student Engagement and Moral Emotions
+- 06/2024, *Master Thesis (Project Report) of University of Macau*, Relative Deprivation and Cyberbullying among Chinese College Students: The Role of Student Engagement and Moral Emotions
