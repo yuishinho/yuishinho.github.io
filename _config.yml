@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxin He"
   avatar           : "profile.png"
-  bio              : "A Ph.D Candidate at Chongqing University"
+  bio              : "A Ph.D Student at Chongqing University"
   location         : "Chongqing, China"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0003-6638-0042"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
