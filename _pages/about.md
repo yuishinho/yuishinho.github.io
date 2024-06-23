@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn). Before that, I received my master Degree in Social Sciences at [University of Macau](https://www.um.edu.mo) in 2024.
+I am a Ph.D Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at Faculty of Social Sciences of [UM](https://www.um.edu.mo).
+
+Now, I am conducting research under the guidance of Prof.Zhang Peng. My research focuses on: economic policy; risk communication. 
+
 
 <span style="color:#6b5d40">Education</span>
 ----------
