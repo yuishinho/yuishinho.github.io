@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxin He (何鈺鑫)"
+title: "Yuxin He (何钰鑫)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,4 +25,4 @@ Now, I am conducting research under the guidance of Prof.Zhang Peng. My research
 <span style="color:#6b5d40">Works</span>
 ----------
 
-- 07/2024, *IAMCR Christchurch 2024*, Rethinking the risk communication on social media: Stigmatized health risk messages from out-group cause psychological resistance to protective behaviors among MSM (Yuxin He, Yuanming Guo)
+- 07/2024, *IAMCR Christchurch 2024*, Rethinking the risk communication on social media: Stigmatized health risk messages from out-group cause psychological resistance to protective behaviors among MSM (Yuxin He - University of Macau, Yuanming Guo - Macau University of Sciences and Technology)
