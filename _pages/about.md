@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxin He (何钰鑫)"
+title: "Yuxin He"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuxin He, a Ph.D. Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/) of [CQU](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at [Faculty of Social Sciences](https://fss.um.edu.mo) of [UM](https://www.um.edu.mo).
+I am Yuxin He(何钰鑫), a Ph.D. Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/) of [CQU](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at [Faculty of Social Sciences](https://fss.um.edu.mo) of [UM](https://www.um.edu.mo).
 
-Now, I am conducting research under the guidance of Prof.Zhang Peng(张鹏). My research focuses on: economic policy; risk communication. 
+Now, I am conducting research under the guidance of Prof.Zhang Peng(张鹏). My research focuses on: Economic Policy, Risk Communication and Deviant Behaviors. 
 
 
 <span style="color:#6b5d40">Education</span>
