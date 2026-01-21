@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yuxin He(何钰鑫), a Ph.D. Student in Public Administration at [School of Public Policy and Administration](https://cpa.cqu.edu.cn/) of [Chongqing University](https://www.cqu.edu.cn). Before that, I studied Criminology and Criminal Justice at [Faculty of Social Sciences](https://fss.um.edu.mo) of [University of Macau](https://www.um.edu.mo).
 
-Now, I am conducting research under the guidance of Prof.Peng Zhang. My research focuses on: Public Economy, Public Policy and Risk Communication. 
+My research focuses on: Public Economy, Public Policy and Risk Communication. 
 
 
 <span style="color:#6b5d40">Education</span>
